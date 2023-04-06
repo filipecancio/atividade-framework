@@ -3,4 +3,4 @@
 
 ### Sumário
 
-- Introdução: sobre o NodeJS [https://github.com/filipecancio/atividade-framework/issues/2]
+- [Introdução: sobre o NodeJS](https://github.com/filipecancio/atividade-framework/issues/2)
